@@ -95,6 +95,10 @@ flutter:
     - images/k2.png
     - images/k3.png
     - images/k4.png
+    # - images/k11.png
+    # - images/k22.png
+    # - images/k33.png
+    # - images/k44.png
     - images/h1.png
     - images/h2.png
     - images/h3.png
